@@ -2,6 +2,16 @@
 
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## [Unreleased][unreleased]
+
+### Changed
+
+- Upgraded to Symfony 2.8.5 components
+
+### Fixed
+
+- Etags were not being updated after dropping/resizing an event
+
 ## [2.0.0-beta2] - 2016-04-20
 
 ### Changed
